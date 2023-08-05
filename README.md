@@ -46,5 +46,5 @@
 <img width="2069" alt="스크린샷 2023-08-06 오전 12 15 46" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/214b1d34-5c09-49a9-996c-cb3acc7e73a9">
 <img width="2069" alt="스크린샷 2023-08-06 오전 12 16 25" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/f521f878-7ceb-4169-8f56-d41174345fba">
 <img width="2069" alt="스크린샷 2023-08-06 오전 12 16 37" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/0fef8b90-7211-49ca-a9ae-00c3663cec29">
-![Uploading 스크린샷 2023-08-06 오전 12.18.16.png…]()
+<img width="2069" alt="스크린샷 2023-08-06 오전 12 18 16" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/ed770fa6-5fa2-4f65-8876-85ca5c53eaae">
 <img width="2070" alt="스크린샷 2023-08-06 오전 12 18 23" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/58eb7731-99f6-4801-87f8-086244d3611e">

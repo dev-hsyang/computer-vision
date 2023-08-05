@@ -7,13 +7,13 @@
 <img width="751" alt="스크린샷 2023-08-05 오후 11 30 05" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/62848c66-f1e1-4826-b7dd-350f260dbd79">
 <img width="742" alt="스크린샷 2023-08-05 오후 11 30 41" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/5426a610-e19d-4691-afc5-4f06697ced17">
 
-
 ## 1-2. Outline
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 34 52" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/9d53b3a0-db05-497e-ae4f-fa11d8ca90ac">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 35 02" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/0918c1fb-3fc2-4586-aef1-84233331b097">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 35 25" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/4b9361e1-e1e1-48ac-8cc6-0f4565e4fea1">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 35 37" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/5a410459-9cb5-429a-9f41-b75acf0b0452">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 35 50" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/b4953877-3740-49f2-8fad-70381d538985">
+
 
 # 2. Coin Counting - Hough Circle Transform (Edge detection)
 ## 2-1. Result
@@ -27,3 +27,22 @@
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 44 36" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/95da26f7-7c7e-447d-a7a0-82e5f27c6ba4">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 44 55" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/873176a3-0858-495f-b7bd-437e072ad9af">
 <img width="2068" alt="스크린샷 2023-08-05 오후 11 45 11" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/8788cb57-406a-41e9-87b9-d512e574c94d">
+
+
+# 3. Image Stitching
+## 3-1. Result
+<img width="350" alt="스크린샷 2023-08-06 오전 12 02 08" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/97f627ab-c27d-4b31-a60b-09dc0765a3e8">
+<img width="350" alt="스크린샷 2023-08-06 오전 12 02 59" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/89a61192-cce5-47a1-a70b-a843f40a241a">
+<img width="1000" alt="스크린샷 2023-08-06 오전 12 06 24" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/d6390dcb-6aea-41e5-8d16-947c87de78e8">
+<img width="1000" alt="스크린샷 2023-08-06 오전 12 06 38" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/1f1a8c46-c79f-458c-a6b5-b427bfaa5083">
+<img width="1000" alt="스크린샷 2023-08-06 오전 12 06 51" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/a5b1c979-c3ef-4654-aa13-03a1c0e953f0">
+<img width="1000" alt="스크린샷 2023-08-06 오전 12 07 05" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/708d3ca9-c606-43b5-993d-e1be43bc1980">
+
+
+
+## 3-2. Outline
+<img width="2068" alt="스크린샷 2023-08-05 오후 11 34 52" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/9d53b3a0-db05-497e-ae4f-fa11d8ca90ac">
+<img width="2068" alt="스크린샷 2023-08-05 오후 11 35 02" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/0918c1fb-3fc2-4586-aef1-84233331b097">
+<img width="2068" alt="스크린샷 2023-08-05 오후 11 35 25" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/4b9361e1-e1e1-48ac-8cc6-0f4565e4fea1">
+<img width="2068" alt="스크린샷 2023-08-05 오후 11 35 37" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/5a410459-9cb5-429a-9f41-b75acf0b0452">
+<img width="2068" alt="스크린샷 2023-08-05 오후 11 35 50" src="https://github.com/dev-hsyang/computer-vision/assets/89997300/b4953877-3740-49f2-8fad-70381d538985">
